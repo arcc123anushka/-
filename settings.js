@@ -33,9 +33,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owner v card
 global.vcardowner = ['+94766588513'] // owner number
 global.ownername = "𝔸ℕ𝕌𝕊ℍ𝕂𝔸 ℕ𝕌𝕎𝔸ℕ" // owner name
-global.ytname = "" // yt chanel name
+global.ytname = "Nuwan Priyantha 01" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.location = "Sri Lanka , Central province , Kandy , Wattegama " // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -51,9 +51,9 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+94766588513']
 global.ownertag = '+94766588513' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.botname = '꧁𝐑𝐄𝐃༒𝐃𝐑𝐀𝐆𝐎𝐍༒𝐁𝐎𝐓࿐' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "꧁𝐑𝐄𝐃༒𝐃𝐑𝐀𝐆𝐎𝐍༒𝐁𝐎𝐓࿐" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
